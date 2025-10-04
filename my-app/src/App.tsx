@@ -2,6 +2,8 @@ import { useState } from 'react'
 
 import './App.css'
 import Button from './components/Button'
+import Counter from './components/Counter'
+import Name from './components/Nhapten'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -24,6 +26,16 @@ function App() {
         color="#34d399"
         className="font-semibold"
       />
+    </div>
+
+    <div>
+      <h1>Đếm số</h1>
+      <Counter/>
+      
+    </div>
+    <div>
+      <h1>Name</h1>
+      <Name/>
     </div>
       
 
