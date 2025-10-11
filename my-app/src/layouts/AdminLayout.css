@@ -1,0 +1,50 @@
+.admin-layout {
+  display: flex;
+  height: 100vh; /* Chiếm toàn màn hình */
+  margin: 0;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #111;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Đặt nội dung lên đầu */
+  align-items: flex-start;
+}
+
+.sidebar h2 {
+  color: #61dafb;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.sidebar a {
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 6px;
+  transition: background-color 0.2s;
+}
+
+.sidebar a:hover {
+  background-color: #222;
+  color: #61dafb;
+}
+
+.admin-content {
+  flex: 1;
+  background-color: #f5f5f5;
+  padding: 30px;
+  overflow-y: auto;
+}

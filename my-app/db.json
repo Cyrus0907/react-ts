@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Áo thun nam basic",
+      "description": "Áo thun nam cổ tròn, chất cotton co giãn 4 chiều, thoáng mát.",
+      "price": 159000,
+      "image": "https://product.hstatic.net/200000605631/product/img_6702.1_8f2bf738aab249469990e20545999c1d_05f7175e708b4398af5e582f4b616e0f.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Áo sơ mi trắng nữ công sở",
+      "description": "Thiết kế thanh lịch, dễ phối đồ. Chất liệu cotton mềm mịn, thoải mái.",
+      "price": 249000,
+      "image": "https://product.hstatic.net/200000897463/product/ao_so_mi_trang_nu_02_2d9efbc405f4455b83867634d5d959a0_master.png"
+    },
+    {
+      "id": 3,
+      "title": "Quần jean nam ",
+      "description": "Quần jean dáng ôm vừa, co giãn nhẹ, phong cách hiện đại.",
+      "price": 329000,
+      "image": "https://tourandtate.com/vi/cdn/shop/files/3_93fa01b4-4c1b-4c16-bf59-eba1145954a6.jpg?v=1753464217&width=800"
+    },
+    {
+      "id": 4,
+      "title": "Váy hoa vintage nữ",
+      "description": "Váy dáng xòe, họa tiết hoa nhí vintage. Phù hợp đi chơi hoặc dạo phố.",
+      "price": 399000,
+      "image": "https://dongphuchaianh.vn/wp-content/uploads/2022/09/vay-hoa-nhi-dang-dai-mix-mu-han-quoc.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Áo hoodie unisex",
+      "description": "Áo hoodie form rộng, vải nỉ dày dặn, giữ ấm tốt.",
+      "price": 289000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4Hwe6Bzfr0pTIPGlun7EkzKGr6YPF3bfdQ&s"
+    },
+    {
+      "id": 6,
+      "title": "Quần short kaki nam",
+      "description": "Chất liệu kaki mềm mịn, dễ phối đồ, phù hợp mùa hè.",
+      "price": 199000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgjOFuabw-YIrLOJpadLaM0mnVyFeHcZvbw&s"
+    },
+    {
+      "id": 7,
+      "title": "Áo khoác bomber nữ",
+      "description": "Áo khoác bomber nữ phong cách Hàn Quốc, cá tính và thời trang.",
+      "price": 359000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKj4TmZcStLXSCUsjjqLXw292tB_GbmIvILs_YtM1Yu1L2aR5-w1AWPAdOvIj9swhAz7A&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "title": "Chân váy chữ A nữ",
+      "description": "Chân váy chữ A dễ phối, tôn dáng, phù hợp nhiều hoàn cảnh.",
+      "price": 179000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7rcem-m6ga0dj1k7jdc7.webp"
+    },
+    {
+      "id": 9,
+      "title": "Áo polo nam cao cấp",
+      "description": "Áo polo vải thun lạnh, không nhăn, sang trọng và lịch sự.",
+      "price": 279000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7rd4r-m7ro1e6ma4fl6f.webp"
+    },
+    {
+      "id": 10,
+      "title": "Áo sweater nữ oversize",
+      "description": "Áo sweater nữ form rộng, vải nỉ dày, phù hợp mùa đông.",
+      "price": 319000,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmpemw4tgg67fa.webp"
+    },
+    {
+      "id": 11,
+      "title": "Áo khoác jean nam",
+      "description": "Áo khoác jean nam phong cách đường phố, cá tính và trẻ trung.",
+      "price": 459000,
+      "image": "https://bizweb.dktcdn.net/100/502/737/products/o1cn01yqq9ql1bt1emx0gjp2210898.jpg?v=1703735343873"
+    },
+    {
+      "id": 12,
+      "title": "Váy body nữ dự tiệc",
+      "description": "Váy body ôm sát tôn dáng, phù hợp dự tiệc hoặc sự kiện.",
+      "price": 499000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7ratm-mawmsxs9ej8p1b.webp"
+    },
+    {
+      "id": 13,
+      "title": "Áo sơ mi caro nam",
+      "description": "Áo sơ mi caro nam cổ điển, chất vải mềm, dễ phối với quần jean.",
+      "price": 259000,
+      "image": "https://image.hm.com/assets/hm/49/1c/491cebdaf1929634c34e2efe62e64d85579d3610.jpg?imwidth=1260"
+    },
+    {
+      "id": 14,
+      "title": "Quần jogger thể thao unisex",
+      "description": "Chất thun co giãn, thoải mái khi vận động, phù hợp cả nam và nữ.",
+      "price": 229000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
+    },
+    {
+      "id": 15,
+      "title": "Áo blazer nữ công sở",
+      "description": "Áo blazer nữ form chuẩn, giúp tôn dáng, lịch sự và sang trọng.",
+      "price": 549000,
+      "image": "https://lamia.com.vn/storage/anh-seo/7-cach-phoi-do-voi-ao-blazer-cuc-chat-danh-cho-co-nang-cong-so-1.png"
+    },
+    {
+      "id": 16,
+      "title": "Quần jogger thể thao unisex",
+      "description": "Chất thun co giãn, thoải mái khi vận động, phù hợp cả nam và nữ.",
+      "price": 229000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
+    },
+    {
+      "id": 17,
+      "title": "Quần jogger thể thao unisex",
+      "description": "Chất thun co giãn, thoải mái khi vận động, phù hợp cả nam và nữ.",
+      "price": 229000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
+    },
+    {
+      "id": 18,
+      "title": "Quần jogger thể thao unisex",
+      "description": "Chất thun co giãn, thoải mái khi vận động, phù hợp cả nam và nữ.",
+      "price": 229000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
+    },
+    {
+      "id": 19,
+      "title": "Quần jogger thể thao unisex",
+      "description": "Chất thun co giãn, thoải mái khi vận động, phù hợp cả nam và nữ.",
+      "price": 229000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
+    },
+    {
+      "id": 20,
+      "title": "Quần jogger thể thao unisex",
+      "description": "Chất thun co giãn, thoải mái khi vận động, phù hợp cả nam và nữ.",
+      "price": 229000,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
+    }
+  ]
+}

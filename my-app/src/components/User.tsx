@@ -21,6 +21,7 @@ function Users(){
     
     const[users, setUsers] = useState<User[]>([]);
     const[selectedUser, setSelectedUser] = useState<User | null>(null);  //--User | null bđ k ai đc chọn
+    const[selectedId,setSelectedId] = useState<number | null>(null);
     useEffect(()=>{
         axios
             .get("https://jsonplaceholder.typicode.com/users")
@@ -29,13 +30,18 @@ function Users(){
 
             
         },[]);
+    useEffect(()=>{
+        if(selectedId === null) return;
+        axios
+            .get(`https://jsonplaceholder.typicode.com/users/${selectedId}`)
+            .then((res) => setSelectedUser(res.data))
+            .catch((err) => console.error("Lỗi tải chi tiết",err));
+            
+    },[selectedId]);
     
     
     const handleUserClick = (id:number)=>{
-        axios
-            .get(`https://jsonplaceholder.typicode.com/users/${id}`)
-            .then((res) => setSelectedUser(res.data))
-            .catch((err)=>console.error("Lỗi tải chi tiết :",err));
+        setSelectedId(id);
             
     };
 
