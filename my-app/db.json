@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "title": "Áo thun nam basic",
+      "title": "Áo thun nam basic update",
       "description": "Áo thun nam cổ tròn, chất cotton co giãn 4 chiều, thoáng mát.",
-      "price": 159000,
+      "price": "210.000",
       "image": "https://product.hstatic.net/200000605631/product/img_6702.1_8f2bf738aab249469990e20545999c1d_05f7175e708b4398af5e582f4b616e0f.jpg"
     },
     {
@@ -71,13 +71,6 @@
       "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmpemw4tgg67fa.webp"
     },
     {
-      "id": 11,
-      "title": "Áo khoác jean nam",
-      "description": "Áo khoác jean nam phong cách đường phố, cá tính và trẻ trung.",
-      "price": 459000,
-      "image": "https://bizweb.dktcdn.net/100/502/737/products/o1cn01yqq9ql1bt1emx0gjp2210898.jpg?v=1703735343873"
-    },
-    {
       "id": 12,
       "title": "Váy body nữ dự tiệc",
       "description": "Váy body ôm sát tôn dáng, phù hợp dự tiệc hoặc sự kiện.",
@@ -134,11 +127,11 @@
       "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
     },
     {
-      "id": 20,
-      "title": "Quần jogger thể thao unisex",
-      "description": "Chất thun co giãn, thoải mái khi vận động, phù hợp cả nam và nữ.",
-      "price": 229000,
-      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7reqa-m8pv26xomduq3d.webp"
+      "title": "Khăn quàng cổ",
+      "description": "giữ ấm",
+      "price": "70000",
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-824jg-mf6hcqi4y68dbd.webp",
+      "id": 20
     }
   ]
 }

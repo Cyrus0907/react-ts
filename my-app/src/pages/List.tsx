@@ -87,7 +87,7 @@ export default function List() {
         <button className="btn btn-primary" onClick={handleSearchClick}>
           Tìm kiếm
         </button>
-        <Link to="/products/add" className="btn btn-success">
+        <Link to="/admin/add" className="btn btn-success">
           Thêm sản phẩm
         </Link>
       </div>
@@ -136,13 +136,13 @@ export default function List() {
                   <td>
                     <div className="d-flex justify-content-center gap-2">
                       <Link
-                        to={`/products/${p.id}`}
+                        to={`/admin/${p.id}`}
                         className="btn btn-outline-info btn-sm"
                       >
                         Xem
                       </Link>
                       <Link
-                        to={`/products/edit/${p.id}`}
+                        to={`/admin/edit/${p.id}`}
                         className="btn btn-outline-warning btn-sm"
                       >
                         Sửa

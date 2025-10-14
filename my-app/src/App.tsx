@@ -22,7 +22,7 @@ function App() {
         <Route path="/admin" element={<AdminLayout />}>
           <Route path="list" element={<List />}></Route>
           <Route path="add" element={<Add />}></Route>
-          <Route path="edit" element={<Edit />}></Route>
+          <Route path="edit/:id" element={<Edit />}></Route>
         </Route>
       </Routes>
       <Toaster />

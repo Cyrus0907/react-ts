@@ -24,18 +24,18 @@ export default function Sidebar() {
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link text-white">
-            Orders
+          <a href="/admin/add" className="nav-link text-white">
+            Add Product
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link text-white">
+          <a href="/admin/list" className="nav-link text-white">
             Products
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link text-white">
-            Customers
+          <a href="/admin/edit" className="nav-link text-white">
+            Edit Product
           </a>
         </li>
         <li>
